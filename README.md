@@ -1,3 +1,4 @@
 - 👋 Mashood Pookkadan
 - 📫 Full Stack Developer
-- Ruby on Rails, NestJs, NextJs, Angular, ReactJs
+- Ruby on Rails, NestJs, NextJs, Angular, ReactJs, TypeScript
+- AWS, Postgresql, Mongodb, SQL, Heroku
